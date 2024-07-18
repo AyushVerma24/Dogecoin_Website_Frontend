@@ -1,0 +1,20 @@
+
+.animated-text {
+    font-size: 1.5rem;
+    position: absolute;
+    text-align: center;
+    padding-left: 790px;
+    margin-top: 760px;
+    color: #ffffff;
+    font-weight: bold;
+    white-space: nowrap;
+    overflow: hidden;
+    font-family: 'Comic Neue';
+    border-right: none;
+    animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
+  }
+
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 20% }
+  }

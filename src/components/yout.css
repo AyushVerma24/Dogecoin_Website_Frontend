@@ -1,0 +1,14 @@
+.yout{
+    margin-left: 960px;
+    margin-top: -340px;
+    margin-right: 300px
+}
+.yout h1{
+    font-family: 'Comic Neue';
+    font-size: 45px;
+}
+.yout p{
+    font-family: 'Comic Neue';
+    font-size: 20px;
+    line-height: 1.7;
+}
